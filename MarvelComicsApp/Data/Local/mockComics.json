@@ -1,0 +1,246 @@
+{
+  "data": {
+    "results": [
+      {
+        "id": 1001,
+        "title": "Comic Title #1",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "fullName": "Jack Kirby"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1002,
+        "title": "Comic Title #2",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3",
+              "fullName": "Steve Ditko"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1003,
+        "title": "Comic Title #3",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4",
+              "fullName": "Joe Simon"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1004,
+        "title": "Comic Title #4",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1",
+              "fullName": "Stan Lee"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1005,
+        "title": "Comic Title #5",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "fullName": "Jack Kirby"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1006,
+        "title": "Comic Title #6",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3",
+              "fullName": "Steve Ditko"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1007,
+        "title": "Comic Title #7",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4",
+              "fullName": "Joe Simon"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1008,
+        "title": "Comic Title #8",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1",
+              "fullName": "Stan Lee"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1009,
+        "title": "Comic Title #9",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "fullName": "Jack Kirby"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1010,
+        "title": "Comic Title #10",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3",
+              "fullName": "Steve Ditko"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1011,
+        "title": "Comic Title #11",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4",
+              "fullName": "Joe Simon"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1012,
+        "title": "Comic Title #12",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1",
+              "fullName": "Stan Lee"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1013,
+        "title": "Comic Title #13",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "fullName": "Jack Kirby"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1014,
+        "title": "Comic Title #14",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3",
+              "fullName": "Steve Ditko"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1015,
+        "title": "Comic Title #15",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4",
+              "fullName": "Joe Simon"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1016,
+        "title": "Comic Title #16",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1",
+              "fullName": "Stan Lee"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1017,
+        "title": "Comic Title #17",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "fullName": "Jack Kirby"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1018,
+        "title": "Comic Title #18",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3",
+              "fullName": "Steve Ditko"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1019,
+        "title": "Comic Title #19",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4",
+              "fullName": "Joe Simon"
+            }
+          ]
+        }
+      },
+      {
+        "id": 1020,
+        "title": "Comic Title #20",
+        "creators": {
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1",
+              "fullName": "Stan Lee"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
