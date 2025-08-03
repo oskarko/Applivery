@@ -55,6 +55,8 @@ chmod +x build_installer.sh
 ./build_installer.sh
 ```
 
+![alt tag3](images/img4.png)
+
 Esto hará lo siguiente:
 
 - Copia la app
