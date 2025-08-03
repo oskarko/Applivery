@@ -80,8 +80,8 @@ La app se instalará y se configurará para abrirse automáticamente al iniciar 
 ## 🔁 Para desinstalar
 
 ```bash
-sudo launchctl unload /Library/LaunchAgents/com.oscarga.marvelcomicsapp.plist
-sudo rm /Library/LaunchAgents/com.oscarga.marvelcomicsapp.plist
+sudo launchctl unload /Library/LaunchAgents/com.oscargarrucho.marvelcomicsapp.plist
+sudo rm /Library/LaunchAgents/com.oscargarrucho.marvelcomicsapp.plist
 sudo rm -rf /Applications/MarvelComicsApp.app
 ```
 
@@ -92,7 +92,7 @@ sudo rm -rf /Applications/MarvelComicsApp.app
 ```
 Build/
 ├── Payload/Applications/MarvelComicsApp.app
-├── LaunchAgent/com.oscarga.marvelcomicsapp.plist
+├── LaunchAgent/com.oscargarrucho.marvelcomicsapp.plist
 ├── MarvelComicsApp.pkg
 ├── LaunchAgent.pkg
 
